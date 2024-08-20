@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(244, 65, 25);
+    background-position: center;
+    background-size: auto;
+    align-items: center;
+   
+}
+.class{
+    width: 200px;
+    height: 200px;
+    font-family: 'Arial';
+    padding-left: 530px;
+
+}
+h1{
+    padding-left: 530px;
+}
